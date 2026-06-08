@@ -123,11 +123,12 @@ Relationships were established using **Primary Keys** and **Foreign Keys** to en
 
 ```text
 screenshots/
-├── executive_summary.png
-├── project_performance.png
-├── resource_analytics.png
-├── risk_dashboard.png
-└── insights_page.png
+├── Schema Structure.png
+├── Executive Summary.png
+├── Project Performance.png
+├── Resource Analytics.png
+├── Risk Dashboard.png
+└── InsightsPage.png
 ```
 
 ---
