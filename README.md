@@ -128,7 +128,7 @@ screenshots/
 ├── Project Performance.png
 ├── Resource Analytics.png
 ├── Risk Dashboard.png
-└── InsightsPage.png
+└── Insights Page.png
 ```
 
 ---
